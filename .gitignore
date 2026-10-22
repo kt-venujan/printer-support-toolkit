@@ -1,0 +1,19 @@
+# Output binaries & build artifacts
+/Output/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
+
+# Visual Studio / IDE files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.part
+scratch/
